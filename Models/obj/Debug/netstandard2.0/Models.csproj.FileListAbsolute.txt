@@ -1,0 +1,8 @@
+D:\Oop prpblems\ToolboothFinal\Models\bin\Debug\netstandard2.0\Models.deps.json
+D:\Oop prpblems\ToolboothFinal\Models\bin\Debug\netstandard2.0\Models.dll
+D:\Oop prpblems\ToolboothFinal\Models\bin\Debug\netstandard2.0\Models.pdb
+D:\Oop prpblems\ToolboothFinal\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\Oop prpblems\ToolboothFinal\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+D:\Oop prpblems\ToolboothFinal\Models\obj\Debug\netstandard2.0\Models.dll
+D:\Oop prpblems\ToolboothFinal\Models\obj\Debug\netstandard2.0\Models.pdb
+D:\Oop prpblems\ToolboothFinal\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
